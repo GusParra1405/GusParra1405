@@ -52,7 +52,7 @@ Soy un Data Analyst con **+3 años de experiencia** en análisis de datos, autom
             - [ ] ## 📫 Conéctate conmigo
            
             - [ ] - **GitHub**: [@GusParra1405](https://github.com/GusParra1405)
-            - [ ] - **LinkedIn**: [Tu perfil]
+            - [ ] - **LinkedIn**: www.linkedin.com/in/gusparra
             - [ ] - **Email**: parragustavob97@gmail.com
            
             - [ ] ---
